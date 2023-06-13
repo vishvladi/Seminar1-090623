@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/bin/Debug/net6.0/Task4
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/bin/Debug/net6.0/Task4.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar1-090623/Task4/obj/Debug/net6.0/ref/Task4.dll
